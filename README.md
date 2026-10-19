@@ -42,7 +42,7 @@ GPU Programming Assignment, Problem 1, submitted to **Dr. Binod Kumar**.
 |:---|:---|
 | Peteti Charantej | G25AIT2026 |
 | Aryaveer Rathi | G25AIT2021 |
-| Sandeep | G25AIT2036 |
+| Sandeep Kumar Guntakal | G25AIT2036 |
 
 ---
 
